@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Outlook.com
+Comment=Outlook.com - Microsoft free personal email
+Exec=outlook.com %u
+Terminal=false
+Type=Application
+Icon=outlook.com
+Categories=Application;Network;Email;
+MimeType=message/rfc822;x-scheme-handler/mailto;
+StartupNotify=true
